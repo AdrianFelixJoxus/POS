@@ -1,7 +1,7 @@
-/backend/vendor
-/backend/storage/*.key
-/backend/.env
-/frontend/node_modules
-/frontend/.env
+/laravel-sistema-cafeteria/vendor
+/laravel-sistema-cafeteria/storage/*.key
+/laravel-sistema-cafeteria/.env
+/react-sistema-cafeteria/node_modules
+/react-sistema-cafeteria/.env
 .DS_Store
 .idea
